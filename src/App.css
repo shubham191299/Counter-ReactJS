@@ -1,0 +1,6 @@
+.wrapper{
+    margin: 80px auto;
+    max-width: 52%;
+    box-shadow: 0 0 10px cyan;
+    border-radius: 25px;
+}
